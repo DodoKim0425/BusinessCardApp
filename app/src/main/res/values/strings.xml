@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Hong GilDong</string>
+    <string name="job">Developer</string>
+    <string name="phone_number">000-0000-0000</string>
+    <string name="sns_account">\@gildong</string>
+    <string name="email">gildong@gmail.com</string>
+</resources>
